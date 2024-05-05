@@ -63847,6 +63847,19 @@
         }
       ],
       "id": "F93*6939c068-221e-4444-a300-64ab9a7dcdf5"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I210*bef66493-f665-400b-9f85-f8e2404ee682"
+        }
+      ],
+      "id": "F94*fb0a820a-0807-41f8-b9e3-807531b87171",
+      "wifeRefs": [
+        {
+          "ref": "I206*ca59259d-d2b2-46b5-a932-168452b47dbf"
+        }
+      ]
     }
   ],
   "head": {
@@ -224398,6 +224411,11 @@
           "ref": "F2077952523"
         }
       ],
+      "fams": [
+        {
+          "ref": "F94*fb0a820a-0807-41f8-b9e3-807531b87171"
+        }
+      ],
       "id": "I206*ca59259d-d2b2-46b5-a932-168452b47dbf",
       "names": [
         {
@@ -224463,6 +224481,25 @@
       "names": [
         {
           "value": "Afrijan /Sitio/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F94*fb0a820a-0807-41f8-b9e3-807531b87171"
+        }
+      ],
+      "id": "I210*bef66493-f665-400b-9f85-f8e2404ee682",
+      "names": [
+        {
+          "value": "Marga /Tambunan/"
         }
       ],
       "eventsFacts": [
