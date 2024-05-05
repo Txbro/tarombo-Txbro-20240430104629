@@ -63156,6 +63156,9 @@
         },
         {
           "ref": "I205*dad632d1-871e-4734-a0a3-beb72e02d33b"
+        },
+        {
+          "ref": "I206*ca59259d-d2b2-46b5-a932-168452b47dbf"
         }
       ],
       "husbandRefs": [
@@ -224377,6 +224380,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2077952523"
+        }
+      ],
+      "id": "I206*ca59259d-d2b2-46b5-a932-168452b47dbf",
+      "names": [
+        {
+          "value": "Samsiah /Sitio/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
