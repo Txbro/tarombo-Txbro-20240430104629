@@ -222549,13 +222549,17 @@
       "id": "I2141131111",
       "names": [
         {
-          "value": "Ompung Boru //"
+          "value": "Rakminim /Napitu/"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     },
