@@ -222128,13 +222128,17 @@
       "id": "I2141131089",
       "names": [
         {
-          "value": "Boru /Napitu/"
+          "value": "Artianim /Napitu/"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     },
