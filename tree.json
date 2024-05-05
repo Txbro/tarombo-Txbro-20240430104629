@@ -63078,7 +63078,12 @@
           "ref": "I2141131081"
         }
       ],
-      "id": "F2077952520"
+      "id": "F2077952520",
+      "wifeRefs": [
+        {
+          "ref": "I200*39e681a1-bb24-4f4e-9268-b61dd8cc2c9d"
+        }
+      ]
     },
     {
       "husbandRefs": [
@@ -224199,6 +224204,29 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F2077952520"
+        }
+      ],
+      "id": "I200*39e681a1-bb24-4f4e-9268-b61dd8cc2c9d",
+      "names": [
+        {
+          "value": "Boru /Siallagan/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
