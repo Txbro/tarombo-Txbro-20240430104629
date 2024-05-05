@@ -224464,6 +224464,12 @@
         {
           "value": "Afrijan /Sitio/"
         }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
       ]
     }
   ],
