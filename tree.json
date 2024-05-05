@@ -221911,13 +221911,17 @@
       "id": "I2141131081",
       "names": [
         {
-          "value": "Pa. Kasianna /Sinaga/"
+          "value": "Jahuat /Sinaga/"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     },
