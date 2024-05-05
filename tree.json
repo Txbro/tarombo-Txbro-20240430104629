@@ -62994,6 +62994,9 @@
         },
         {
           "ref": "I2141131084"
+        },
+        {
+          "ref": "I202*faf4048a-e794-43b8-81a5-8bce1c3ad3f5"
         }
       ],
       "husbandRefs": [
@@ -224270,6 +224273,29 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2077952516"
+        }
+      ],
+      "id": "I202*faf4048a-e794-43b8-81a5-8bce1c3ad3f5",
+      "names": [
+        {
+          "value": "Op. Tamat /Sinaga/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
