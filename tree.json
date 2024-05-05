@@ -63150,6 +63150,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I204*df252fc8-c632-4e97-be54-470566d6df8c"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I2141131096"
@@ -224331,6 +224336,25 @@
       "names": [
         {
           "value": "?????? /Sinaga/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2077952523"
+        }
+      ],
+      "id": "I204*df252fc8-c632-4e97-be54-470566d6df8c",
+      "names": [
+        {
+          "value": "Nurseti /Sitio/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
