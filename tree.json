@@ -63159,6 +63159,9 @@
         },
         {
           "ref": "I206*ca59259d-d2b2-46b5-a932-168452b47dbf"
+        },
+        {
+          "ref": "I207*feab4a77-8964-43dd-b79f-afb325ecdcef"
         }
       ],
       "husbandRefs": [
@@ -224399,6 +224402,29 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2077952523"
+        }
+      ],
+      "id": "I207*feab4a77-8964-43dd-b79f-afb325ecdcef",
+      "names": [
+        {
+          "value": "Lardin /Sitio/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
