@@ -63153,6 +63153,9 @@
       "childRefs": [
         {
           "ref": "I204*df252fc8-c632-4e97-be54-470566d6df8c"
+        },
+        {
+          "ref": "I205*dad632d1-871e-4734-a0a3-beb72e02d33b"
         }
       ],
       "husbandRefs": [
@@ -224355,6 +224358,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2077952523"
+        }
+      ],
+      "id": "I205*dad632d1-871e-4734-a0a3-beb72e02d33b",
+      "names": [
+        {
+          "value": "Primadona /Sitio/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
