@@ -63849,6 +63849,11 @@
       "id": "F93*6939c068-221e-4444-a300-64ab9a7dcdf5"
     },
     {
+      "childRefs": [
+        {
+          "ref": "I211*122f8b61-355c-4745-80bb-5aa4faa31eb9"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I210*bef66493-f665-400b-9f85-f8e2404ee682"
@@ -224500,6 +224505,25 @@
       "names": [
         {
           "value": "Marga /Tambunan/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F94*fb0a820a-0807-41f8-b9e3-807531b87171"
+        }
+      ],
+      "id": "I211*122f8b61-355c-4745-80bb-5aa4faa31eb9",
+      "names": [
+        {
+          "value": "Elvin /Tambunan/"
         }
       ],
       "eventsFacts": [
