@@ -23438,19 +23438,7 @@
       ]
     },
     {
-      "childRefs": [
-        {
-          "ref": "I45579928",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [],
       "id": "F32904520",
       "wifeRefs": [
@@ -35280,11 +35268,7 @@
     },
     {
       "childRefs": [],
-      "husbandRefs": [
-        {
-          "ref": "I45579928"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F34808850",
       "wifeRefs": [],
       "eventsFacts": [
@@ -181828,39 +181812,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F32904520"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F34808850"
-        }
-      ],
-      "id": "I45579928",
-      "names": [
-        {
-          "givn": "Simangonding",
-          "value": "Simangonding //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
