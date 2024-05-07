@@ -117402,29 +117402,6 @@
       ]
     },
     {
-      "id": "I87117055",
-      "names": [
-        {
-          "givn": "Sihalak-halaki Lombung",
-          "value": "Sihalak-halaki Lombung //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ]
-    },
-    {
       "famc": [
         {
           "ref": "F3465514"
