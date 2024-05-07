@@ -7015,19 +7015,7 @@
       ]
     },
     {
-      "childRefs": [
-        {
-          "ref": "I58962770",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I12383892"
@@ -168518,34 +168506,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F67134787"
-        }
-      ],
-      "id": "I58962770",
-      "names": [
-        {
-          "givn": "Tn. Napang",
-          "value": "Tn. Napang //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
