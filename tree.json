@@ -17633,19 +17633,7 @@
       "id": "F19782784"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I8268318",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I42931055"
@@ -135510,39 +135498,6 @@
         {
           "givn": "Dt. Tapak",
           "value": "Dt. Tapak //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F79970803"
-        }
-      ],
-      "id": "I8268318",
-      "names": [
-        {
-          "givn": "Lumban Mataniari",
-          "value": "Lumban Mataniari //"
         }
       ],
       "eventsFacts": [
