@@ -7049,17 +7049,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I61283557",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -58909,11 +58898,7 @@
     },
     {
       "childRefs": [],
-      "husbandRefs": [
-        {
-          "ref": "I61283557"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F84716758",
       "wifeRefs": [],
       "eventsFacts": [
@@ -161432,39 +161417,6 @@
       "sourceCitations": [
         {
           "ref": "S2"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F92307538"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F84716758"
-        }
-      ],
-      "id": "I61283557",
-      "names": [
-        {
-          "givn": "Parbarungbung",
-          "value": "Parbarungbung //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
