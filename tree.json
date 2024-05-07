@@ -58915,11 +58915,7 @@
         }
       ],
       "id": "F84716758",
-      "wifeRefs": [
-        {
-          "ref": "I11295394"
-        }
-      ],
+      "wifeRefs": [],
       "eventsFacts": [
         {
           "place": "Sumatera Utara,,,",
@@ -180869,34 +180865,6 @@
       "sourceCitations": [
         {
           "ref": "S2"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F84716758"
-        }
-      ],
-      "id": "I11295394",
-      "names": [
-        {
-          "givn": "Nabinuat ni si Parbarungbung",
-          "value": "Nabinuat ni si Parbarungbung //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
