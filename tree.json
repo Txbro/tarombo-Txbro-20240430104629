@@ -198691,34 +198691,6 @@
       ]
     },
     {
-      "id": "I12437695",
-      "names": [
-        {
-          "givn": "Op. Buntu Najolo",
-          "value": "Op. Buntu Najolo //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
-        }
-      ]
-    },
-    {
       "famc": [
         {
           "ref": "F8877987"
