@@ -7581,11 +7581,7 @@
     },
     {
       "childRefs": [],
-      "husbandRefs": [
-        {
-          "ref": "I30396202"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F53026699",
       "wifeRefs": [],
       "eventsFacts": [
@@ -35294,19 +35290,7 @@
       ]
     },
     {
-      "childRefs": [
-        {
-          "ref": "I30396202",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I45579928"
@@ -172901,39 +172885,6 @@
       "noteRefs": [
         {
           "ref": "N280391"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F34808850"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F53026699"
-        }
-      ],
-      "id": "I30396202",
-      "names": [
-        {
-          "givn": "Si Harinuan",
-          "value": "Si Harinuan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
