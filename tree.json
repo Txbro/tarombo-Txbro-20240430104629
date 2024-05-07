@@ -7580,19 +7580,7 @@
       ]
     },
     {
-      "childRefs": [
-        {
-          "ref": "I9640568",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I30396202"
@@ -161146,34 +161134,6 @@
       "noteRefs": [
         {
           "ref": "N48153233"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F53026699"
-        }
-      ],
-      "id": "I9640568",
-      "names": [
-        {
-          "givn": "Mangorring Dolok",
-          "value": "Mangorring Dolok //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
