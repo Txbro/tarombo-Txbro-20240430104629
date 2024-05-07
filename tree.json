@@ -35309,17 +35309,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I66549750",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -108104,34 +108093,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F34808850"
-        }
-      ],
-      "id": "I66549750",
-      "names": [
-        {
-          "givn": "Si Atas Lasiak",
-          "value": "Si Atas Lasiak //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
