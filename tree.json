@@ -36361,19 +36361,7 @@
       ]
     },
     {
-      "childRefs": [
-        {
-          "ref": "I73083581",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I61267150"
@@ -109539,39 +109527,6 @@
         {
           "givn": "Lange-lange Ampang",
           "value": "Lange-lange Ampang //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F20157614"
-        }
-      ],
-      "id": "I73083581",
-      "names": [
-        {
-          "givn": "Op. Tn. Dolok",
-          "value": "Op. Tn. Dolok //"
         }
       ],
       "eventsFacts": [
