@@ -23470,11 +23470,7 @@
           }
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I42952192"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F32904520",
       "wifeRefs": [
         {
@@ -164897,34 +164893,6 @@
       "noteRefs": [
         {
           "ref": "N64142982"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F32904520"
-        }
-      ],
-      "id": "I42952192",
-      "names": [
-        {
-          "givn": "Sianturi",
-          "value": "Sianturi //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
