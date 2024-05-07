@@ -184267,34 +184267,6 @@
       ]
     },
     {
-      "id": "I36510449",
-      "names": [
-        {
-          "givn": "Op. Sumuntuk",
-          "value": "Op. Sumuntuk //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
-        }
-      ]
-    },
-    {
       "fams": [
         {
           "ref": "F91878054"
