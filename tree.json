@@ -17655,17 +17655,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I95902101",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -99938,39 +99927,6 @@
         {
           "givn": "Ambarita",
           "value": "Ambarita //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F79970803"
-        }
-      ],
-      "id": "I95902101",
-      "names": [
-        {
-          "givn": "Lumban Gambiri",
-          "value": "Lumban Gambiri //"
         }
       ],
       "eventsFacts": [
