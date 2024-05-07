@@ -7613,17 +7613,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I54009800",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -207949,34 +207938,6 @@
         {
           "tag": "DEAT",
           "value": "Y"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F53026699"
-        }
-      ],
-      "id": "I54009800",
-      "names": [
-        {
-          "givn": "Mandosi",
-          "value": "Mandosi //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
