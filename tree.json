@@ -35286,11 +35286,7 @@
         }
       ],
       "id": "F34808850",
-      "wifeRefs": [
-        {
-          "ref": "I95546294"
-        }
-      ],
+      "wifeRefs": [],
       "eventsFacts": [
         {
           "place": "Sumatera Utara,,,",
@@ -206022,34 +206018,6 @@
       "noteRefs": [
         {
           "ref": "N11464812"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F34808850"
-        }
-      ],
-      "id": "I95546294",
-      "names": [
-        {
-          "givn": "Nabinuat ni si Simangonding",
-          "value": "Nabinuat ni si Simangonding //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
