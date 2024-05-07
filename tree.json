@@ -110388,34 +110388,6 @@
       ]
     },
     {
-      "id": "I98770962",
-      "names": [
-        {
-          "givn": "Babiat Naingol",
-          "value": "Babiat Naingol //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
-        }
-      ]
-    },
-    {
       "fams": [
         {
           "ref": "F23895964"
