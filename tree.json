@@ -7016,11 +7016,7 @@
     },
     {
       "childRefs": [],
-      "husbandRefs": [
-        {
-          "ref": "I12383892"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F67134787",
       "wifeRefs": [],
       "eventsFacts": [
@@ -203387,34 +203383,6 @@
       "sourceCitations": [
         {
           "ref": "S2"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F67134787"
-        }
-      ],
-      "id": "I12383892",
-      "names": [
-        {
-          "givn": "Siburian",
-          "value": "Siburian //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
