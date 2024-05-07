@@ -7587,11 +7587,7 @@
         }
       ],
       "id": "F53026699",
-      "wifeRefs": [
-        {
-          "ref": "I67683253"
-        }
-      ],
+      "wifeRefs": [],
       "eventsFacts": [
         {
           "place": "Sumatera Utara,,,",
@@ -89375,34 +89371,6 @@
       "noteRefs": [
         {
           "ref": "N8495866"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F53026699"
-        }
-      ],
-      "id": "I67683253",
-      "names": [
-        {
-          "givn": "Nabinuat ni si Harinuan",
-          "value": "Nabinuat ni si Harinuan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
