@@ -139822,29 +139822,6 @@
       ]
     },
     {
-      "id": "I49030769",
-      "names": [
-        {
-          "givn": "Op. Martumpu",
-          "value": "Op. Martumpu //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ]
-    },
-    {
       "famc": [
         {
           "ref": "F88636608"
