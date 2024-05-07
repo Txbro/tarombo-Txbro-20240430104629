@@ -7582,17 +7582,6 @@
     {
       "childRefs": [
         {
-          "ref": "I34098708",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
-        },
-        {
           "ref": "I9640568",
           "extensions": {
             "folg.more_tags": [
@@ -196158,34 +196147,6 @@
       "noteRefs": [
         {
           "ref": "N22382620"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F53026699"
-        }
-      ],
-      "id": "I34098708",
-      "names": [
-        {
-          "givn": "Bona ni Onan",
-          "value": "Bona ni Onan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
