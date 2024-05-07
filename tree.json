@@ -7602,17 +7602,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I17043386",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -179875,34 +179864,6 @@
         {
           "givn": "Rj. Ditano",
           "value": "Rj. Ditano //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F53026699"
-        }
-      ],
-      "id": "I17043386",
-      "names": [
-        {
-          "givn": "Parmas Sahati",
-          "value": "Parmas Sahati //"
         }
       ],
       "eventsFacts": [
