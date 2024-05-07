@@ -18186,11 +18186,7 @@
         }
       ],
       "id": "F92354008",
-      "wifeRefs": [
-        {
-          "ref": "I19342602"
-        }
-      ],
+      "wifeRefs": [],
       "eventsFacts": [
         {
           "place": "Sumatera Utara,,,",
@@ -174073,39 +174069,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F92354008"
-        }
-      ],
-      "id": "I19342602",
-      "names": [
-        {
-          "givn": "Nabinuat ni si Siburian",
-          "value": "Nabinuat ni si Siburian //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
         }
       ]
     },
