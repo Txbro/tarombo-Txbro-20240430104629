@@ -19785,11 +19785,7 @@
     },
     {
       "childRefs": [],
-      "husbandRefs": [
-        {
-          "ref": "I30395841"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F41992367",
       "wifeRefs": [],
       "eventsFacts": [
@@ -37853,17 +37849,6 @@
       "childRefs": [
         {
           "ref": "I66514586",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
-        },
-        {
-          "ref": "I30395841",
           "extensions": {
             "folg.more_tags": [
               {
@@ -176472,44 +176457,6 @@
         },
         {
           "place": "Simalungun,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F96643393"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F41992367"
-        }
-      ],
-      "id": "I30395841",
-      "names": [
-        {
-          "givn": "Si Harinuan",
-          "value": "Si Harinuan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
           "tag": "DEAT"
         }
       ],
