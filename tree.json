@@ -7027,19 +7027,7 @@
       ]
     },
     {
-      "childRefs": [
-        {
-          "ref": "I59956160",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I39707490"
@@ -98922,34 +98910,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F92307538"
-        }
-      ],
-      "id": "I59956160",
-      "names": [
-        {
-          "givn": "Op. Labas",
-          "value": "Op. Labas //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
