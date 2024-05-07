@@ -7038,17 +7038,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I40963636",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -212957,34 +212946,6 @@
       "sourceCitations": [
         {
           "ref": "S2"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F92307538"
-        }
-      ],
-      "id": "I40963636",
-      "names": [
-        {
-          "givn": "Op. Batuholim",
-          "value": "Op. Batuholim //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
