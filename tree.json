@@ -58919,17 +58919,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I73094242",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -183177,34 +183166,6 @@
       "sourceCitations": [
         {
           "ref": "S2"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F84716758"
-        }
-      ],
-      "id": "I73094242",
-      "names": [
-        {
-          "givn": "Op. Tn. Dolok",
-          "value": "Op. Tn. Dolok //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
