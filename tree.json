@@ -7624,17 +7624,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I91587128",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -151334,34 +151323,6 @@
       "sourceCitations": [
         {
           "ref": "S2"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F53026699"
-        }
-      ],
-      "id": "I91587128",
-      "names": [
-        {
-          "givn": "Tn. di Horbo",
-          "value": "Tn. di Horbo //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
