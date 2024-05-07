@@ -7591,17 +7591,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I39866120",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -145880,34 +145869,6 @@
       "noteRefs": [
         {
           "ref": "N34446626"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F53026699"
-        }
-      ],
-      "id": "I39866120",
-      "names": [
-        {
-          "givn": "Mangihut Raja",
-          "value": "Mangihut Raja //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
