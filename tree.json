@@ -17634,11 +17634,7 @@
     },
     {
       "childRefs": [],
-      "husbandRefs": [
-        {
-          "ref": "I42931055"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F79970803",
       "wifeRefs": [],
       "eventsFacts": [
@@ -94790,39 +94786,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F79970803"
-        }
-      ],
-      "id": "I42931055",
-      "names": [
-        {
-          "givn": "Sianturi",
-          "value": "Sianturi //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
         }
       ]
     },
