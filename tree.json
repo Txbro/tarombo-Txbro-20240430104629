@@ -111077,22 +111077,6 @@
       ]
     },
     {
-      "id": "I58028143",
-      "names": [
-        {
-          "givn": "Joshua",
-          "surn": "Tambunan",
-          "value": "Joshua /Tambunan/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
       "famc": [
         {
           "ref": "F71954946"
