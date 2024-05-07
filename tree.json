@@ -7034,11 +7034,7 @@
         }
       ],
       "id": "F92307538",
-      "wifeRefs": [
-        {
-          "ref": "I37009742"
-        }
-      ],
+      "wifeRefs": [],
       "eventsFacts": [
         {
           "place": "Sumatera Utara,,,",
@@ -89397,34 +89393,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F92307538"
-        }
-      ],
-      "id": "I37009742",
-      "names": [
-        {
-          "givn": "Nabinuat ni si Bora Torop",
-          "value": "Nabinuat ni si Bora Torop //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
