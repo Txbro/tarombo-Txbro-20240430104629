@@ -19806,17 +19806,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I9640165",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -163178,39 +163167,6 @@
         {
           "givn": "Hutabalian",
           "value": "Hutabalian //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F41992367"
-        }
-      ],
-      "id": "I9640165",
-      "names": [
-        {
-          "givn": "Mangorring Dolok",
-          "value": "Mangorring Dolok //"
         }
       ],
       "eventsFacts": [
