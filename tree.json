@@ -23449,17 +23449,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I82699339",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [],
@@ -118194,34 +118183,6 @@
       "noteRefs": [
         {
           "ref": "N54551652"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F32904520"
-        }
-      ],
-      "id": "I82699339",
-      "names": [
-        {
-          "givn": "Lumban Mataniari",
-          "value": "Lumban Mataniari //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
