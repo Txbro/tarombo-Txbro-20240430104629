@@ -17640,11 +17640,7 @@
         }
       ],
       "id": "F79970803",
-      "wifeRefs": [
-        {
-          "ref": "I92963127"
-        }
-      ],
+      "wifeRefs": [],
       "eventsFacts": [
         {
           "place": "Sumatera Utara,,,",
@@ -130029,35 +130025,6 @@
         {
           "place": "Sumatera Utara,,,",
           "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F79970803"
-        }
-      ],
-      "id": "I92963127",
-      "names": [
-        {
-          "givn": "Nabinuat ni si Sianturi",
-          "value": "Nabinuat ni si Sianturi //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
         },
         {
           "place": "Sumatera Utara,,,",
