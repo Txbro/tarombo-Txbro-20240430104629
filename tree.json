@@ -7022,11 +7022,7 @@
         }
       ],
       "id": "F67134787",
-      "wifeRefs": [
-        {
-          "ref": "I19361328"
-        }
-      ],
+      "wifeRefs": [],
       "eventsFacts": [
         {
           "place": "Sumatera Utara,,,",
@@ -155301,34 +155297,6 @@
       "sourceCitations": [
         {
           "ref": "S2"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F67134787"
-        }
-      ],
-      "id": "I19361328",
-      "names": [
-        {
-          "givn": "Nabinuat ni si Siburian",
-          "value": "Nabinuat ni si Siburian //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
