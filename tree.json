@@ -18190,17 +18190,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I35688623",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -95348,39 +95337,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F92354008"
-        }
-      ],
-      "id": "I35688623",
-      "names": [
-        {
-          "givn": "Tn. Nahum",
-          "value": "Tn. Nahum //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
         },
         {
           "place": "Sumatera Utara,,,",
