@@ -58908,19 +58908,7 @@
       "id": "F97220829"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I15270331",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I61283557"
@@ -180999,34 +180987,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F84716758"
-        }
-      ],
-      "id": "I15270331",
-      "names": [
-        {
-          "givn": "Op. Balubas",
-          "value": "Op. Balubas //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
