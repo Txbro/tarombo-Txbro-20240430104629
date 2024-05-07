@@ -146371,22 +146371,6 @@
       ]
     },
     {
-      "id": "I64314833",
-      "names": [
-        {
-          "givn": "Tantan",
-          "surn": "Debata",
-          "value": "Tantan /Debata/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
       "famc": [
         {
           "ref": "F31068520"
