@@ -19839,17 +19839,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I16980193",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -122757,39 +122746,6 @@
       "noteRefs": [
         {
           "ref": "N27526084"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F41992367"
-        }
-      ],
-      "id": "I16980193",
-      "names": [
-        {
-          "givn": "Parmas Sahati",
-          "value": "Parmas Sahati //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
         }
       ]
     },
