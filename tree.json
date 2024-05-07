@@ -7028,11 +7028,7 @@
     },
     {
       "childRefs": [],
-      "husbandRefs": [
-        {
-          "ref": "I39707490"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F92307538",
       "wifeRefs": [],
       "eventsFacts": [
@@ -115450,34 +115446,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F92307538"
-        }
-      ],
-      "id": "I39707490",
-      "names": [
-        {
-          "givn": "Si Bora Torop",
-          "value": "Si Bora Torop //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
