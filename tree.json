@@ -23468,17 +23468,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I95918221",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -98304,34 +98293,6 @@
       "noteRefs": [
         {
           "ref": "N92062982"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F32904520"
-        }
-      ],
-      "id": "I95918221",
-      "names": [
-        {
-          "givn": "Lumban Gambiri",
-          "value": "Lumban Gambiri //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
