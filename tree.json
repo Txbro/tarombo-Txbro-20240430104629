@@ -23441,11 +23441,7 @@
       "childRefs": [],
       "husbandRefs": [],
       "id": "F32904520",
-      "wifeRefs": [
-        {
-          "ref": "I93060333"
-        }
-      ],
+      "wifeRefs": [],
       "eventsFacts": [
         {
           "place": "Sumatera Utara,,,",
@@ -136334,30 +136330,6 @@
       "sourceCitations": [
         {
           "ref": "S2"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F32904520"
-        }
-      ],
-      "id": "I93060333",
-      "names": [
-        {
-          "givn": "Nabinuat ni si Sianturi",
-          "value": "Nabinuat ni si Sianturi //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
         }
       ]
     },
