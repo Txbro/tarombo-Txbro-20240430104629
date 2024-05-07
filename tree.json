@@ -17644,17 +17644,6 @@
               }
             ]
           }
-        },
-        {
-          "ref": "I45549709",
-          "extensions": {
-            "folg.more_tags": [
-              {
-                "tag": "PEDI",
-                "value": "birth"
-              }
-            ]
-          }
         }
       ],
       "husbandRefs": [
@@ -37836,11 +37825,7 @@
     },
     {
       "childRefs": [],
-      "husbandRefs": [
-        {
-          "ref": "I45549709"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F96643393",
       "wifeRefs": [],
       "eventsFacts": [
@@ -141714,44 +141699,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F79970803"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F96643393"
-        }
-      ],
-      "id": "I45549709",
-      "names": [
-        {
-          "givn": "Simangonding",
-          "value": "Simangonding //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "BIRT"
-        },
-        {
-          "place": "Sumatera Utara,,,",
-          "tag": "DEAT"
-        }
-      ],
-      "sourceCitations": [
-        {
-          "ref": "S2"
         }
       ]
     },
