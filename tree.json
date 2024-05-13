@@ -63387,6 +63387,19 @@
           "ref": "I213*d26a2af8-d7f4-4a09-9e24-e1c509b9b249"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I214*2149717d-3e0c-4ed2-a606-d3c096c8fb31"
+        }
+      ],
+      "id": "F96*1d55708e-0122-4a9c-bd9a-7f11ef094df2",
+      "wifeRefs": [
+        {
+          "ref": "I216*597304fc-0ddf-46ed-b153-a8bf2914ed0e"
+        }
+      ]
     }
   ],
   "head": {
@@ -222115,6 +222128,11 @@
           "ref": "F95*0e8d5df1-f34f-4148-9236-0a48caa90fac"
         }
       ],
+      "fams": [
+        {
+          "ref": "F96*1d55708e-0122-4a9c-bd9a-7f11ef094df2"
+        }
+      ],
       "id": "I214*2149717d-3e0c-4ed2-a606-d3c096c8fb31",
       "names": [
         {
@@ -222144,6 +222162,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F96*1d55708e-0122-4a9c-bd9a-7f11ef094df2"
+        }
+      ],
+      "id": "I216*597304fc-0ddf-46ed-b153-a8bf2914ed0e",
+      "names": [
+        {
+          "value": "Manur /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
