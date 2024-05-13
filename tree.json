@@ -63498,6 +63498,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I234*fce5d3a5-e56b-43a9-a3ce-509f76e210a0"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I232*215a8a6b-e21c-4832-9a77-f44f6cb44adc"
@@ -222643,6 +222648,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F101*11cf784c-40ae-49a6-a95e-dc0790dea4aa"
+        }
+      ],
+      "id": "I234*fce5d3a5-e56b-43a9-a3ce-509f76e210a0",
+      "names": [
+        {
+          "value": "Daniel /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
