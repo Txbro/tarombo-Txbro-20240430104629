@@ -63501,6 +63501,9 @@
       "childRefs": [
         {
           "ref": "I234*fce5d3a5-e56b-43a9-a3ce-509f76e210a0"
+        },
+        {
+          "ref": "I235*d1b0914e-06bb-479a-ad95-6bc9a9a541e2"
         }
       ],
       "husbandRefs": [
@@ -222667,6 +222670,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F101*11cf784c-40ae-49a6-a95e-dc0790dea4aa"
+        }
+      ],
+      "id": "I235*d1b0914e-06bb-479a-ad95-6bc9a9a541e2",
+      "names": [
+        {
+          "value": "Ella /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
