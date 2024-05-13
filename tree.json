@@ -63552,6 +63552,12 @@
       "childRefs": [
         {
           "ref": "I243*c683fffe-988c-4406-a673-17e5bebf7ffc"
+        },
+        {
+          "ref": "I244*78b74485-4712-4b4d-a68e-0883fee1f3d6"
+        },
+        {
+          "ref": "I245*9150999f-4d72-468b-bc02-20681a8529d8"
         }
       ],
       "husbandRefs": [
@@ -222893,6 +222899,44 @@
       "names": [
         {
           "value": "Mia /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F103*0ca79720-be36-42e9-809a-b949ba48ef79"
+        }
+      ],
+      "id": "I244*78b74485-4712-4b4d-a68e-0883fee1f3d6",
+      "names": [
+        {
+          "value": "Natalia /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F103*0ca79720-be36-42e9-809a-b949ba48ef79"
+        }
+      ],
+      "id": "I245*9150999f-4d72-468b-bc02-20681a8529d8",
+      "names": [
+        {
+          "value": "Romaito /Sagala Lumban Parik/"
         }
       ],
       "eventsFacts": [
