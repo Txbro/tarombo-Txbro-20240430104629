@@ -61353,6 +61353,9 @@
         },
         {
           "ref": "I215*9a76792d-abc3-4de0-9d84-355e3042ccf0"
+        },
+        {
+          "ref": "I222*b2792944-7bc5-4fd3-a761-0134b37e4810"
         }
       ],
       "husbandRefs": [
@@ -63392,6 +63395,12 @@
       "childRefs": [
         {
           "ref": "I217*fad9007b-edd7-4e7d-a250-a805aa5392a5"
+        },
+        {
+          "ref": "I220*740e129a-4f13-4adf-a3cd-399c6a810768"
+        },
+        {
+          "ref": "I221*4a962663-939d-4f6e-a32c-6e29cf3c1708"
         }
       ],
       "husbandRefs": [
@@ -222267,6 +222276,67 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F96*7d470c6a-dc82-4409-adf6-a4fdd63bef57"
+        }
+      ],
+      "id": "I220*740e129a-4f13-4adf-a3cd-399c6a810768",
+      "names": [
+        {
+          "value": "Margaretha /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F96*7d470c6a-dc82-4409-adf6-a4fdd63bef57"
+        }
+      ],
+      "id": "I221*4a962663-939d-4f6e-a32c-6e29cf3c1708",
+      "names": [
+        {
+          "value": "Muto /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
+        }
+      ],
+      "id": "I222*b2792944-7bc5-4fd3-a761-0134b37e4810",
+      "names": [
+        {
+          "value": "Ruslan /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
