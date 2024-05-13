@@ -63405,6 +63405,19 @@
           "ref": "I216*da4dbe88-22c5-49b5-8ac4-e6f070bfa968"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I218*c604b1c6-2125-404a-836c-ef59bea3eb0a"
+        }
+      ],
+      "id": "F97*592def4e-0d1d-4997-9733-3a7041891920",
+      "wifeRefs": [
+        {
+          "ref": "I217*fad9007b-edd7-4e7d-a250-a805aa5392a5"
+        }
+      ]
     }
   ],
   "head": {
@@ -222196,6 +222209,11 @@
           "ref": "F96*7d470c6a-dc82-4409-adf6-a4fdd63bef57"
         }
       ],
+      "fams": [
+        {
+          "ref": "F97*592def4e-0d1d-4997-9733-3a7041891920"
+        }
+      ],
       "id": "I217*fad9007b-edd7-4e7d-a250-a805aa5392a5",
       "names": [
         {
@@ -222206,6 +222224,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F97*592def4e-0d1d-4997-9733-3a7041891920"
+        }
+      ],
+      "id": "I218*c604b1c6-2125-404a-836c-ef59bea3eb0a",
+      "names": [
+        {
+          "value": "Dr. Andri /Simanjuntak/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
