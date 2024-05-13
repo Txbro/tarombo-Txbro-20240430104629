@@ -61362,6 +61362,9 @@
         },
         {
           "ref": "I232*215a8a6b-e21c-4832-9a77-f44f6cb44adc"
+        },
+        {
+          "ref": "I236*f9093703-4e1f-45aa-a4a7-c7f18298fa0c"
         }
       ],
       "husbandRefs": [
@@ -222683,6 +222686,25 @@
       "names": [
         {
           "value": "Ella /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
+        }
+      ],
+      "id": "I236*f9093703-4e1f-45aa-a4a7-c7f18298fa0c",
+      "names": [
+        {
+          "value": "Samsidar /Sagala Lumban Parik/"
         }
       ],
       "eventsFacts": [
