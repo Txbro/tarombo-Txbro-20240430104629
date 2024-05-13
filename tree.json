@@ -63549,6 +63549,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I243*c683fffe-988c-4406-a673-17e5bebf7ffc"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I241*c5115a2e-2195-4ec8-adda-857b7534ae16"
@@ -222869,6 +222874,25 @@
       "names": [
         {
           "value": "Lisda /Simarmata/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F103*0ca79720-be36-42e9-809a-b949ba48ef79"
+        }
+      ],
+      "id": "I243*c683fffe-988c-4406-a673-17e5bebf7ffc",
+      "names": [
+        {
+          "value": "Mia /Sagala Lumban Parik/"
         }
       ],
       "eventsFacts": [
