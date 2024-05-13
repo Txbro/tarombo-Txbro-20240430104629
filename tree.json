@@ -63368,6 +63368,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I214*2149717d-3e0c-4ed2-a606-d3c096c8fb31"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I212*3b615d47-52ed-4cf7-bbe2-f72ca40140ab"
@@ -222098,6 +222103,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F95*0e8d5df1-f34f-4148-9236-0a48caa90fac"
+        }
+      ],
+      "id": "I214*2149717d-3e0c-4ed2-a606-d3c096c8fb31",
+      "names": [
+        {
+          "value": "Martogi /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
