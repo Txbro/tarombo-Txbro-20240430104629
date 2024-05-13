@@ -61365,6 +61365,9 @@
         },
         {
           "ref": "I236*f9093703-4e1f-45aa-a4a7-c7f18298fa0c"
+        },
+        {
+          "ref": "I241*c5115a2e-2195-4ec8-adda-857b7534ae16"
         }
       ],
       "husbandRefs": [
@@ -63522,6 +63525,17 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I238*4b2e1a76-fa21-453f-8203-61c4b4f6e26b"
+        },
+        {
+          "ref": "I239*275ec6c0-7ea1-44ab-a343-e470489bc365"
+        },
+        {
+          "ref": "I240*b175dc20-2c05-48fd-8a86-63719d5c6490"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I237*3f46b525-2836-4d3c-a1cb-d85e652e5c08"
@@ -63531,6 +63545,19 @@
       "wifeRefs": [
         {
           "ref": "I236*f9093703-4e1f-45aa-a4a7-c7f18298fa0c"
+        }
+      ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I241*c5115a2e-2195-4ec8-adda-857b7534ae16"
+        }
+      ],
+      "id": "F103*0ca79720-be36-42e9-809a-b949ba48ef79",
+      "wifeRefs": [
+        {
+          "ref": "I242*e90981d8-4979-49bf-923f-dbe7dc13c2e8"
         }
       ]
     }
@@ -222748,6 +222775,106 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F102*30ccb432-886c-4385-a853-37b6597c82c9"
+        }
+      ],
+      "id": "I238*4b2e1a76-fa21-453f-8203-61c4b4f6e26b",
+      "names": [
+        {
+          "value": "Laung //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F102*30ccb432-886c-4385-a853-37b6597c82c9"
+        }
+      ],
+      "id": "I239*275ec6c0-7ea1-44ab-a343-e470489bc365",
+      "names": [
+        {
+          "value": "Fahrozi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F102*30ccb432-886c-4385-a853-37b6597c82c9"
+        }
+      ],
+      "id": "I240*b175dc20-2c05-48fd-8a86-63719d5c6490",
+      "names": [
+        {
+          "value": "Tia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F103*0ca79720-be36-42e9-809a-b949ba48ef79"
+        }
+      ],
+      "id": "I241*c5115a2e-2195-4ec8-adda-857b7534ae16",
+      "names": [
+        {
+          "value": "Sihar /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F103*0ca79720-be36-42e9-809a-b949ba48ef79"
+        }
+      ],
+      "id": "I242*e90981d8-4979-49bf-923f-dbe7dc13c2e8",
+      "names": [
+        {
+          "value": "Lisda /Simarmata/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
