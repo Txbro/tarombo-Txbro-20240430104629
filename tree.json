@@ -63407,6 +63407,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I219*d0b4dfe9-1984-4794-80f7-02155cba9fa4"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I218*c604b1c6-2125-404a-836c-ef59bea3eb0a"
@@ -222237,6 +222242,25 @@
       "names": [
         {
           "value": "Dr. Andri /Simanjuntak/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F97*592def4e-0d1d-4997-9733-3a7041891920"
+        }
+      ],
+      "id": "I219*d0b4dfe9-1984-4794-80f7-02155cba9fa4",
+      "names": [
+        {
+          "value": "Asando /Simanjuntak/"
         }
       ],
       "eventsFacts": [
