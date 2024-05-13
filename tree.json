@@ -61356,6 +61356,9 @@
         },
         {
           "ref": "I222*b2792944-7bc5-4fd3-a761-0134b37e4810"
+        },
+        {
+          "ref": "I224*85652c0d-ed87-43e7-9439-0bea0d615a1c"
         }
       ],
       "husbandRefs": [
@@ -63430,6 +63433,50 @@
       "wifeRefs": [
         {
           "ref": "I217*fad9007b-edd7-4e7d-a250-a805aa5392a5"
+        }
+      ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I223*524a5bfa-d7a1-4c25-824f-9d16c9a2a28a"
+        }
+      ],
+      "id": "F98*a93390bf-103a-4c43-8215-4cc50213d5d5",
+      "wifeRefs": [
+        {
+          "ref": "I222*b2792944-7bc5-4fd3-a761-0134b37e4810"
+        }
+      ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I226*3415c065-e46a-4eff-bf2b-7fd3ef6fc1a4"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I224*85652c0d-ed87-43e7-9439-0bea0d615a1c"
+        }
+      ],
+      "id": "F99*46ab7331-d422-4ca4-888c-59188be7485f",
+      "wifeRefs": [
+        {
+          "ref": "I225*b44d82cd-8d02-4585-ba84-251aa4bcd391"
+        }
+      ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I227*a31e6b1f-4013-49ea-9d11-68905c205c08"
+        }
+      ],
+      "id": "F100*bbf7fde5-0f35-468e-b905-83e870fc1423",
+      "wifeRefs": [
+        {
+          "ref": "I226*3415c065-e46a-4eff-bf2b-7fd3ef6fc1a4"
         }
       ]
     }
@@ -222323,6 +222370,11 @@
           "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F98*a93390bf-103a-4c43-8215-4cc50213d5d5"
+        }
+      ],
       "id": "I222*b2792944-7bc5-4fd3-a761-0134b37e4810",
       "names": [
         {
@@ -222337,6 +222389,111 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F98*a93390bf-103a-4c43-8215-4cc50213d5d5"
+        }
+      ],
+      "id": "I223*524a5bfa-d7a1-4c25-824f-9d16c9a2a28a",
+      "names": [
+        {
+          "value": "Marga Pangaribuan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F99*46ab7331-d422-4ca4-888c-59188be7485f"
+        }
+      ],
+      "id": "I224*85652c0d-ed87-43e7-9439-0bea0d615a1c",
+      "names": [
+        {
+          "value": "Parluhutan Bangun Rea /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F99*46ab7331-d422-4ca4-888c-59188be7485f"
+        }
+      ],
+      "id": "I225*b44d82cd-8d02-4585-ba84-251aa4bcd391",
+      "names": [
+        {
+          "value": "Donda /Sitanggang/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F99*46ab7331-d422-4ca4-888c-59188be7485f"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F100*bbf7fde5-0f35-468e-b905-83e870fc1423"
+        }
+      ],
+      "id": "I226*3415c065-e46a-4eff-bf2b-7fd3ef6fc1a4",
+      "names": [
+        {
+          "value": "Devina /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F100*bbf7fde5-0f35-468e-b905-83e870fc1423"
+        }
+      ],
+      "id": "I227*a31e6b1f-4013-49ea-9d11-68905c205c08",
+      "names": [
+        {
+          "value": "Marga Tampubolon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
