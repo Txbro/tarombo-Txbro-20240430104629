@@ -61359,6 +61359,9 @@
         },
         {
           "ref": "I224*85652c0d-ed87-43e7-9439-0bea0d615a1c"
+        },
+        {
+          "ref": "I232*215a8a6b-e21c-4832-9a77-f44f6cb44adc"
         }
       ],
       "husbandRefs": [
@@ -63453,6 +63456,15 @@
       "childRefs": [
         {
           "ref": "I226*3415c065-e46a-4eff-bf2b-7fd3ef6fc1a4"
+        },
+        {
+          "ref": "I229*10490dec-b34d-45f4-a780-10c7046062e8"
+        },
+        {
+          "ref": "I230*72992fac-9f17-4ed2-94b5-27f98072ce61"
+        },
+        {
+          "ref": "I231*94cd0806-b744-414f-90b9-e94fd096c0ed"
         }
       ],
       "husbandRefs": [
@@ -63468,6 +63480,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I228*bab9ba1a-ef4a-4275-818c-5566957325ca"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I227*a31e6b1f-4013-49ea-9d11-68905c205c08"
@@ -222488,6 +222505,101 @@
       "names": [
         {
           "value": "Marga Tampubolon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F100*bbf7fde5-0f35-468e-b905-83e870fc1423"
+        }
+      ],
+      "id": "I228*bab9ba1a-ef4a-4275-818c-5566957325ca",
+      "names": [
+        {
+          "value": "Kalet /Tampubolon/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F99*46ab7331-d422-4ca4-888c-59188be7485f"
+        }
+      ],
+      "id": "I229*10490dec-b34d-45f4-a780-10c7046062e8",
+      "names": [
+        {
+          "value": "David /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F99*46ab7331-d422-4ca4-888c-59188be7485f"
+        }
+      ],
+      "id": "I230*72992fac-9f17-4ed2-94b5-27f98072ce61",
+      "names": [
+        {
+          "value": "Ishak /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F99*46ab7331-d422-4ca4-888c-59188be7485f"
+        }
+      ],
+      "id": "I231*94cd0806-b744-414f-90b9-e94fd096c0ed",
+      "names": [
+        {
+          "value": "Zefanya /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
+        }
+      ],
+      "id": "I232*215a8a6b-e21c-4832-9a77-f44f6cb44adc",
+      "names": [
+        {
+          "value": "Pendi /Sagala Lumban Parik/"
         }
       ],
       "eventsFacts": [
