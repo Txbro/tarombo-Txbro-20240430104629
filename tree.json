@@ -63458,6 +63458,9 @@
       "childRefs": [
         {
           "ref": "I258*9d442b2c-8cad-4493-bedf-d64c92795198"
+        },
+        {
+          "ref": "I259*88a491e4-c3bd-4e8f-8dec-6437c410b20f"
         }
       ],
       "husbandRefs": [
@@ -223259,6 +223262,25 @@
       "names": [
         {
           "value": "Desi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F98*a93390bf-103a-4c43-8215-4cc50213d5d5"
+        }
+      ],
+      "id": "I259*88a491e4-c3bd-4e8f-8dec-6437c410b20f",
+      "names": [
+        {
+          "value": "Yosephin /Pangaribuan/"
         }
       ],
       "eventsFacts": [
