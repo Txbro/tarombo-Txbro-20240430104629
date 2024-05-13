@@ -63609,6 +63609,17 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I255*36c8decd-10fd-4d5b-8e4b-9614f1418cbb"
+        },
+        {
+          "ref": "I256*5fc6aa6c-55a5-41c2-a4bb-66d95f996de7"
+        },
+        {
+          "ref": "I257*cabef895-a35c-42b7-ab2d-a677440cd51d"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I253*1c5a2ffe-eb54-47bb-a914-b760dcac908f"
@@ -223173,6 +223184,63 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F105*f956a166-6fdc-4417-aae1-f1ef6b35405e"
+        }
+      ],
+      "id": "I255*36c8decd-10fd-4d5b-8e4b-9614f1418cbb",
+      "names": [
+        {
+          "value": "Elshadai /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F105*f956a166-6fdc-4417-aae1-f1ef6b35405e"
+        }
+      ],
+      "id": "I256*5fc6aa6c-55a5-41c2-a4bb-66d95f996de7",
+      "names": [
+        {
+          "value": "Eben Ezer /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F105*f956a166-6fdc-4417-aae1-f1ef6b35405e"
+        }
+      ],
+      "id": "I257*cabef895-a35c-42b7-ab2d-a677440cd51d",
+      "names": [
+        {
+          "value": "Elia /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
