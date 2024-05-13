@@ -61347,6 +61347,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I212*3b615d47-52ed-4cf7-bbe2-f72ca40140ab"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I61*56d51507-40ac-4a33-834c-5fd59ecfd662"
@@ -216339,7 +216344,7 @@
       "id": "I61*56d51507-40ac-4a33-834c-5fd59ecfd662",
       "names": [
         {
-          "value": "Marga Sagala /Lumban Parik/"
+          "value": "Firman /Sagala Lumban Parik/"
         }
       ],
       "eventsFacts": [
@@ -222031,6 +222036,25 @@
       "names": [
         {
           "value": "Elvin /Tambunan/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
+        }
+      ],
+      "id": "I212*3b615d47-52ed-4cf7-bbe2-f72ca40140ab",
+      "names": [
+        {
+          "value": "Jonner Mangara Tua /Sagala Lumban Parik/"
         }
       ],
       "eventsFacts": [
