@@ -61350,6 +61350,9 @@
       "childRefs": [
         {
           "ref": "I212*3b615d47-52ed-4cf7-bbe2-f72ca40140ab"
+        },
+        {
+          "ref": "I215*9a76792d-abc3-4de0-9d84-355e3042ccf0"
         }
       ],
       "husbandRefs": [
@@ -222116,6 +222119,25 @@
       "names": [
         {
           "value": "Martogi /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
+        }
+      ],
+      "id": "I215*9a76792d-abc3-4de0-9d84-355e3042ccf0",
+      "names": [
+        {
+          "value": "Juanda /Sagala Lumban Parik/"
         }
       ],
       "eventsFacts": [
