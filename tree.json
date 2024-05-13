@@ -63366,6 +63366,19 @@
           "ref": "I206*ca59259d-d2b2-46b5-a932-168452b47dbf"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I212*3b615d47-52ed-4cf7-bbe2-f72ca40140ab"
+        }
+      ],
+      "id": "F95*0e8d5df1-f34f-4148-9236-0a48caa90fac",
+      "wifeRefs": [
+        {
+          "ref": "I213*d26a2af8-d7f4-4a09-9e24-e1c509b9b249"
+        }
+      ]
     }
   ],
   "head": {
@@ -222051,6 +222064,11 @@
           "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
         }
       ],
+      "fams": [
+        {
+          "ref": "F95*0e8d5df1-f34f-4148-9236-0a48caa90fac"
+        }
+      ],
       "id": "I212*3b615d47-52ed-4cf7-bbe2-f72ca40140ab",
       "names": [
         {
@@ -222061,6 +222079,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F95*0e8d5df1-f34f-4148-9236-0a48caa90fac"
+        }
+      ],
+      "id": "I213*d26a2af8-d7f4-4a09-9e24-e1c509b9b249",
+      "names": [
+        {
+          "value": "Boru Dayak //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
