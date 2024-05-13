@@ -63389,6 +63389,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I217*fad9007b-edd7-4e7d-a250-a805aa5392a5"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I215*9a76792d-abc3-4de0-9d84-355e3042ccf0"
@@ -222176,6 +222181,25 @@
       "names": [
         {
           "value": "Manur Siboro //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F96*7d470c6a-dc82-4409-adf6-a4fdd63bef57"
+        }
+      ],
+      "id": "I217*fad9007b-edd7-4e7d-a250-a805aa5392a5",
+      "names": [
+        {
+          "value": "Ririn /Sagala Lumban Parik/"
         }
       ],
       "eventsFacts": [
