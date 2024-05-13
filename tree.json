@@ -61368,6 +61368,9 @@
         },
         {
           "ref": "I241*c5115a2e-2195-4ec8-adda-857b7534ae16"
+        },
+        {
+          "ref": "I247*9c54daa9-b456-47c0-ba9c-b3db467e37e5"
         }
       ],
       "husbandRefs": [
@@ -63558,6 +63561,9 @@
         },
         {
           "ref": "I245*9150999f-4d72-468b-bc02-20681a8529d8"
+        },
+        {
+          "ref": "I246*9431ed99-5f86-49ad-95ea-9eb83b710d18"
         }
       ],
       "husbandRefs": [
@@ -222943,6 +222949,44 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F103*0ca79720-be36-42e9-809a-b949ba48ef79"
+        }
+      ],
+      "id": "I246*9431ed99-5f86-49ad-95ea-9eb83b710d18",
+      "names": [
+        {
+          "value": "Beckham /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
+        }
+      ],
+      "id": "I247*9c54daa9-b456-47c0-ba9c-b3db467e37e5",
+      "names": [
+        {
+          "value": "Parlindungan /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
