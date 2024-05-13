@@ -61371,6 +61371,12 @@
         },
         {
           "ref": "I247*9c54daa9-b456-47c0-ba9c-b3db467e37e5"
+        },
+        {
+          "ref": "I252*0db288e8-a23c-4ee5-a324-c7d4945e2b2f"
+        },
+        {
+          "ref": "I253*1c5a2ffe-eb54-47bb-a914-b760dcac908f"
         }
       ],
       "husbandRefs": [
@@ -63579,6 +63585,17 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I249*32e41ffd-7e38-422b-9c88-a72cecefe952"
+        },
+        {
+          "ref": "I250*eba4265d-642c-4c5e-b72e-d578b41c2970"
+        },
+        {
+          "ref": "I251*391fc47c-350e-41c1-aa09-c0d818b8843e"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I247*9c54daa9-b456-47c0-ba9c-b3db467e37e5"
@@ -63588,6 +63605,19 @@
       "wifeRefs": [
         {
           "ref": "I248*329437d1-4835-42eb-8f0b-3813ef6ca2d9"
+        }
+      ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I253*1c5a2ffe-eb54-47bb-a914-b760dcac908f"
+        }
+      ],
+      "id": "F105*f956a166-6fdc-4417-aae1-f1ef6b35405e",
+      "wifeRefs": [
+        {
+          "ref": "I254*cad2c504-ce6c-4ceb-b8aa-f93b74353774"
         }
       ]
     }
@@ -223018,6 +223048,125 @@
       "names": [
         {
           "value": "Boru Turnip //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F104*5e303e1b-01da-4ecd-a38c-5f0ca334e61c"
+        }
+      ],
+      "id": "I249*32e41ffd-7e38-422b-9c88-a72cecefe952",
+      "names": [
+        {
+          "value": "Titin /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F104*5e303e1b-01da-4ecd-a38c-5f0ca334e61c"
+        }
+      ],
+      "id": "I250*eba4265d-642c-4c5e-b72e-d578b41c2970",
+      "names": [
+        {
+          "value": "Wiwin /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F104*5e303e1b-01da-4ecd-a38c-5f0ca334e61c"
+        }
+      ],
+      "id": "I251*391fc47c-350e-41c1-aa09-c0d818b8843e",
+      "names": [
+        {
+          "value": "Filemon /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
+        }
+      ],
+      "id": "I252*0db288e8-a23c-4ee5-a324-c7d4945e2b2f",
+      "names": [
+        {
+          "value": "Pintir /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*e910067e-dd79-465a-996c-5a7558dd696a"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F105*f956a166-6fdc-4417-aae1-f1ef6b35405e"
+        }
+      ],
+      "id": "I253*1c5a2ffe-eb54-47bb-a914-b760dcac908f",
+      "names": [
+        {
+          "value": "Nelson /Sagala Lumban Parik/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F105*f956a166-6fdc-4417-aae1-f1ef6b35405e"
+        }
+      ],
+      "id": "I254*cad2c504-ce6c-4ceb-b8aa-f93b74353774",
+      "names": [
+        {
+          "value": "Ferica /Siagian/"
         }
       ],
       "eventsFacts": [
