@@ -42383,12 +42383,14 @@
       "husbandRefs": [
         {
           "ref": "I22673757"
-        },
+        }
+      ],
+      "id": "F88524296",
+      "wifeRefs": [
         {
           "ref": "I260*243b9187-b649-4b3a-88e2-36541dc41852"
         }
-      ],
-      "id": "F88524296"
+      ]
     },
     {
       "childRefs": [
@@ -223303,6 +223305,12 @@
       "names": [
         {
           "value": "Istri Raja Pandua //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
